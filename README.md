@@ -1,2 +1,0 @@
-# ReactWeatherApp
-Created with CodeSandbox
