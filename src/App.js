@@ -16,7 +16,7 @@ class App extends React.Component {
     error: undefined
   };
 
-  getWeather = async e => {
+  getWeather = async (e) => {
     const city = e.target.elements.city.value;
     const country = e.target.elements.country.value;
     console.log(city);
